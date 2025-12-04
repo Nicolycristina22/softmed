@@ -68,12 +68,13 @@ Ele permite que médicos gerenciem prescrições e que pacientes registrem suas 
 # 🖥️ **Demonstração Online**
 
 
-para testes temos o login do médico como 
+<p para testes temos o login do médico como 
 Email: nicoly@gmail.com
 Senha: 123456
 Login paciente
 Email: carla@gmail.com
 Senha: 123456
+  </p>
 <p align="center">
   <a href="https://nicolycristina22.github.io/softmed/">
     <img src="https://img.shields.io/badge/🌐 Acessar WebApp-6c5ce7?style=for-the-badge"/>
