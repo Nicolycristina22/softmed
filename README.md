@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nicolycristina22.github.io/SOFTMED/">
+  <a href="https://nicolycristina22.github.io/softmed/">
     <img src="https://img.shields.io/badge/Acessar Aplicação Web-CLICK HERE-00b894?style=for-the-badge"/>
   </a>
 </p>
