@@ -1,16 +1,80 @@
 # softmed
 
-A new Flutter project.
+<p align="center">
+  <img src="https://img.shields.io/badge/Projeto-SOFTMED-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flutter-Web-blue?style=for-the-badge&logo=flutter"/>
+</p>
 
-## Getting Started
+<br>
 
-This project is a starting point for a Flutter application.
+<h1 align="center">🧪 SOFTMED — Sistema de Gerenciamento de Medicação</h1>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  Um sistema moderno para médicos e pacientes acompanharem e registrarem medicações contínuas, com foco em cuidados paliativos.  
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <a href="https://nicolycristina22.github.io/SOFTMED/">
+    <img src="https://img.shields.io/badge/Acessar Aplicação Web-CLICK HERE-00b894?style=for-the-badge"/>
+  </a>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ **Visão Geral**
+O **SOFTMED** foi desenvolvido para facilitar o acompanhamento de medicamentos essenciais.  
+Ele permite que médicos gerenciem prescrições e que pacientes registrem suas doses, mantendo tudo organizado e acessível.
+
+---
+
+## 💡 **Principais Funcionalidades**
+
+### 👨‍⚕️ **Para Médicos**
+- Cadastro e edição de pacientes  
+- Gerenciamento de prescrições  
+- Monitoramento de adesão  
+- Histórico completo de doses  
+
+### 💊 **Para Pacientes**
+- Visualização das medicações  
+- Registro do horário que tomou o remédio  
+- Histórico organizado  
+- Interface web amigável
+
+---
+
+## 🚀 **Tecnologias Utilizadas**
+
+| Tecnologia | Descrição |
+|-----------|-----------|
+| **Flutter Web** | Interface reativa e moderna |
+| **Dart** | Linguagem base do Flutter |
+| **GitHub Pages** | Deploy da aplicação web |
+| **Firebase/Firestore** *(opcional)* | Persistência de dados |
+
+---
+
+# 📄 **Documentação Oficial**
+
+📘 **Apresentação (PDF)**  
+👉 [SOFTMED ATTL 3.0.pdf.pdf](./SOFTMED%20ATTL%203.0.pdf.pdf)
+
+📙 **Documentação Técnica (PDF)**  
+👉 [Document 2 (2).pdf](./Document%202%20(2).pdf)
+
+---
+
+# 🖥️ **Demonstração Online**
+
+<p align="center">
+  <a href="https://nicolycristina22.github.io/SOFTMED/">
+    <img src="https://img.shields.io/badge/🌐 Acessar WebApp-6c5ce7?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 📂 **Estrutura do Projeto**
+
+
