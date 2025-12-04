@@ -68,12 +68,12 @@ Ele permite que médicos gerenciem prescrições e que pacientes registrem suas 
 # 🖥️ **Demonstração Online**
 
 <p align="center">
- para testes temos o login do médico como 
-Email: nicoly@gmail.com
-Senha: 123456
-Login paciente
-Email: carla@gmail.com
-Senha: 123456
+<a para testes temos o login do médico como >
+<a Email: nicoly@gmail.com>
+<a Senha: 123456>
+<a Login paciente>
+<a Email: carla@gmail.com>
+<a Senha: 123456>
 </p>
   
 <p align="center">
