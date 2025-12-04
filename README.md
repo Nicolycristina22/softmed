@@ -51,7 +51,7 @@ Ele permite que médicos gerenciem prescrições e que pacientes registrem suas 
 | **Flutter Web** | Interface reativa e moderna |
 | **Dart** | Linguagem base do Flutter |
 | **GitHub Pages** | Deploy da aplicação web |
-| **Firebase/Firestore** *(opcional)* | Persistência de dados |
+| **Firebase/Firestore**  | Persistência de dados |
 
 ---
 
@@ -68,7 +68,7 @@ Ele permite que médicos gerenciem prescrições e que pacientes registrem suas 
 # 🖥️ **Demonstração Online**
 
 <p align="center">
-  <a href="https://nicolycristina22.github.io/SOFTMED/">
+  <a href="https://nicolycristina22.github.io/softmed/">
     <img src="https://img.shields.io/badge/🌐 Acessar WebApp-6c5ce7?style=for-the-badge"/>
   </a>
 </p>
